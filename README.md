@@ -4,7 +4,7 @@ A bold, modern, recruiter-focused portfolio website showcasing Product Managemen
 
 ## 🚀 Live Site
 
-This site is hosted on GitHub Pages at: `https://muhammadibtissam.github.io`
+This site is hosted on GitHub Pages at: `https://ibtissamshazil.github.io/`
 
 ## 📁 Project Structure
 
